@@ -2,13 +2,6 @@
     "title": "Showcase",
     "data": [
         {
-            "url": "https://endder-com.github.io/",
-            "name": "Dynamic Table",
-            "desc": "A dynamic table that is generated based on the content you selected",
-            "imgName": "table.png",
-            "fill": "#fc8e22"
-        },
-        {
             "url": "https://endder-com.github.io/quotes",
             "name": "Quotes",
             "desc": "Inspiring & thought-proving Quotes",
@@ -35,27 +28,6 @@
             "desc": "A dynamic table that is generated based on the content you selected",
             "imgName": "table.png",
             "fill": "#fc8e22"
-        },
-        {
-            "url": "https://endder-com.github.io/quotes",
-            "name": "Quotes",
-            "desc": "Inspiring & thought-proving Quotes",
-            "imgName": "quotes.png",
-            "fill": "#07b594"
-        },
-        {
-            "url": "https://endder-com.github.io/life-calendar",
-            "name": "Life Calendar",
-            "desc": "A Eagle view into the one life's in terms of week",
-            "imgName": "calendar.png",
-            "fill": "#ffb531"
-        },
-        {
-            "url": "https://endder-com.github.io/countdown",
-            "name": "Countdown",
-            "desc": "A Elegant countdown to New Year",
-            "imgName": "time.png",
-            "fill": "#2B9CF2"
         }
     ]
 }
