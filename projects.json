@@ -1,13 +1,19 @@
 {
     "title": "Showcase",
     "data": [
-        
         {
             "url": "https://endder-com.github.io/markdown",
             "name": "Markdown",
             "desc": "A Simple Markdown Editor",
             "imgName": "table.png",
             "fill": "#fc8e22"
+        },
+        {
+            "url": "https://endder-com.github.io/blog",
+            "name": "Blog",
+            "desc": "A Simple Next.js Blog",
+            "imgName": "time.png",
+            "fill": "#2B9CF2"
         },
         {
             "url": "https://endder-com.github.io/quotes",
