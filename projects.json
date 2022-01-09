@@ -9,6 +9,13 @@
             "fill": "#fc8e22"
         },
         {
+            "url": "https://endder-com.github.io/price-per-unit",
+            "name": "Price per Unit",
+            "desc": "A handy app for comparing prices and knowing price per unit",
+            "imgName": "price-per-unit.png",
+            "fill": "#f7b85c"
+        },
+        {
             "url": "https://endder-com.github.io/blog",
             "name": "Blog",
             "desc": "A Simple Next.js Blog",
