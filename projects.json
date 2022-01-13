@@ -23,9 +23,9 @@
             "fill": "#f7b85c"
         },
         {
-            "url": "https://endder-com.github.io/blog",
-            "name": "Blog",
-            "desc": "A Simple Next.js Blog",
+            "url": "https://endder-com.github.io/countdown",
+            "name": "Countdown",
+            "desc": "A Elegant countdown to New Year",
             "imgName": "time.png",
             "fill": "#2B9CF2"
         },
@@ -44,9 +44,9 @@
             "fill": "#ffb531"
         },
         {
-            "url": "https://endder-com.github.io/countdown",
-            "name": "Countdown",
-            "desc": "A Elegant countdown to New Year",
+            "url": "https://endder-com.github.io/blog",
+            "name": "Blog",
+            "desc": "A Simple Next.js Blog",
             "imgName": "time.png",
             "fill": "#2B9CF2"
         },
