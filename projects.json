@@ -1,61 +1,85 @@
 {
-    "title": "Showcase",
-    "data": [
-        {
-            "url": "https://endder-com.github.io/markdown",
-            "name": "Markdown",
-            "desc": "A Simple Markdown Editor",
-            "imgName": "table.png",
-            "fill": "#fc8e22"
-        },
-        {
-            "url": "https://endder-com.github.io/slide-15",
-            "name": "Slide 15",
-            "desc": "All time favorite puzzle, Fifteen puzzle",
-            "imgName": "game.png",
-            "fill": "#53bcbd"
-        },
-        {
-            "url": "https://endder-com.github.io/price-per-unit",
-            "name": "Price per Unit",
-            "desc": "A handy app for comparing prices and knowing price per unit",
-            "imgName": "price.png",
-            "fill": "#f7b85c"
-        },
-        {
-            "url": "https://endder-com.github.io/countdown",
-            "name": "Countdown",
-            "desc": "A Elegant countdown to New Year",
-            "imgName": "time.png",
-            "fill": "#2B9CF2"
-        },
-        {
-            "url": "https://endder-com.github.io/quotes",
-            "name": "Quotes",
-            "desc": "Inspiring & thought-provoking Quotes",
-            "imgName": "quotes.png",
-            "fill": "#07b594"
-        },
-        {
-            "url": "https://endder-com.github.io/life-calendar",
-            "name": "Life Calendar",
-            "desc": "An Eagle view into the one life's in terms of week",
-            "imgName": "calendar.png",
-            "fill": "#ffb531"
-        },
-        {
-            "url": "https://endder-com.github.io/blog",
-            "name": "Blog",
-            "desc": "A Simple Next.js Blog",
-            "imgName": "time.png",
-            "fill": "#2B9CF2"
-        },
-        {
-            "url": "https://endder-com.github.io/",
-            "name": "Dynamic Table",
-            "desc": "A dynamic table that is generated based on the content you selected",
-            "imgName": "table.png",
-            "fill": "#fc8e22"
-        }
-    ]
+  "title": "Showcase",
+  "data": [
+    {
+      "url": "https://endder-com.github.io/split-plus",
+      "name": "SplitPlus (in progress)",
+      "title": "SplitPlus (in-progress)",
+      "desc": "Split bills with ease",
+      "imgName": "bill.png",
+      "fill": "#602a77"
+    },
+    {
+      "url": "https://endder-com.github.io/slide-15",
+      "name": "Slide 15",
+      "title": "Slide 15",
+      "desc": "All time favorite puzzle, Fifteen puzzle",
+      "imgName": "game.png",
+      "fill": "#53bcbd"
+    },
+    {
+      "url": "https://endder-com.github.io/markdown",
+      "name": "Markdown",
+      "title": "Markdown",
+      "desc": "A Simple Markdown Editor",
+      "imgName": "table.png",
+      "fill": "#fc8e22"
+    },
+    {
+      "url": "https://endder-com.github.io/price-per-unit",
+      "name": "Price per Unit",
+      "title": "Price per Unit",
+      "desc": "A handy app for comparing prices and knowing price per unit",
+      "imgName": "price.png",
+      "fill": "#f7b85c"
+    },
+    {
+      "url": "https://endder-com.github.io/life-calendar",
+      "name": "Life Calendar",
+      "title": "Life Calendar",
+      "desc": "An Eagle view into the one life's in terms of week",
+      "imgName": "calendar.png",
+      "fill": "#ffb531"
+    },
+    {
+      "url": "https://endder-com.github.io/countdown",
+      "name": "Countdown",
+      "title": "Countdown",
+      "desc": "A Elegant countdown to New Year",
+      "imgName": "time.png",
+      "fill": "#2B9CF2"
+    },
+    {
+      "url": "https://endder-com.github.io/quotes",
+      "name": "Quotes",
+      "title": "Quotes",
+      "desc": "Inspiring & thought-provoking Quotes",
+      "imgName": "quotes.png",
+      "fill": "#07b594"
+    },
+    {
+      "url": "http://showcase.endder.com/food-order/",
+      "name": "Food Order",
+      "title": "Food Order",
+      "desc": "A React based Food Order App",
+      "imgName": "food.png",
+      "fill": "#d82435"
+    },
+    {
+      "url": "https://endder-com.github.io/blog",
+      "name": "Blog",
+      "title": "Blog",
+      "desc": "A Simple Next.js Blog",
+      "imgName": "time.png",
+      "fill": "#2B9CF2"
+    },
+    {
+      "url": "https://endder-com.github.io/",
+      "name": "Dynamic Table",
+      "title": "Dynamic Table (deprecated)",
+      "desc": "A dynamic table that is generated based on the content you selected",
+      "imgName": "table.png",
+      "fill": "#fc8e22"
+    }
+  ]
 }
